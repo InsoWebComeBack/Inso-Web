@@ -1,4 +1,4 @@
-![Cookie](https://user-images.githubusercontent.com/8536299/99194653-0f8b8b80-2781-11eb-9415-d4a6efc5920e.png)
+![Cookie](http://image.noelshack.com/fichiers/2021/49/7/1639293842-2uyp7.png)
 
 # Cookie-stealer
 Crappy cookie stealer with 'admin' panel made long time ago..
